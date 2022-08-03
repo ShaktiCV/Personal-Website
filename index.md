@@ -1,6 +1,8 @@
-# Shakti CV                                                                                 
-**Agile Coach**\
-email ID: shakticv@gmail.com
+# Shakti CV                                                                                
+**Agile Coach, Amadeus Software Labs**  
+**Email:** shakticv@gmail.com  
+**LinkedIn:** www.linkedin.com/in/shakti-gupta  
+**Highest degree:** Bachelor of engineering in NIE, Mysore  
 
 ***
 **About me :**
