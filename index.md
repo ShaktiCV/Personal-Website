@@ -1,5 +1,4 @@
-# Shakti Gupta                                                                                
-**SPC and Agile Coach, Amadeus Software Labs**  
+ ## SPC and Agile Coach, Amadeus Software Labs 
 [**Email**](shakticv@gmail.com) | [**LinkedIn**](www.linkedin.com/in/shakti-gupta)  
 
 ***
