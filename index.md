@@ -1,4 +1,4 @@
- 
+![Shakti](https://en.gravatar.com/userimage/112967757/5bb6600c489a4ba388d8dc80ea1459ac.png)
 # Shakti Gupta 
 SPC and Agile Coach, Amadeus Software Labs  
 [**Email**](mailto:shakticv@gmail.com) | [**LinkedIn**](http://linkedin.com/in/shakti-gupta)  
