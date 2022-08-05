@@ -1,6 +1,5 @@
 theme: jekyll-theme-minimal
+logo: /main/Logo.jpg
 title: "Shakti's Page"
-avatar: "/main/Logo.jpg"
-
 github:
   is_project_page: false
