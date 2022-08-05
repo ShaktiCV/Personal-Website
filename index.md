@@ -18,4 +18,4 @@ Working with people and teams, helping them do great in their jobs makes me happ
 
 ## Professional Summary  
 15 yrs experience in varied roles - Quality Engineer, Team lead, Scrum Master and currently an Agile Coach. Having performed in these varying roles, Shakti is able to provide guidance to teams from grassroot level to strategic. What makes me stand out is being emphathetic and leading by example.  
-Compaines I am proud to have worked for - Accenture Services Pvt Ltd, Fidelity National Financials, Societe Generale and Amadeus Software Labs(Current).
+Compaines proud to have worked for - Accenture Services Pvt Ltd, Fidelity National Financials, Societe Generale and Amadeus Software Labs(Current).
