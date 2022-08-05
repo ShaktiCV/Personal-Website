@@ -3,3 +3,7 @@ logo: /logo.png
 title: "  "
 github:
   is_project_page: false
+  
+layout: page
+title: "feedback"
+permalink: /URL-PATH/
