@@ -1,6 +1,6 @@
 theme: jekyll-theme-modernist
 title: "Shakti's Page"
-avatar: "https://github.com/ShaktiCV/Personal-Website/blob/main/Logo.jpg?raw=true"
+avatar: "/main/Logo.jpg"
 
 github:
   is_project_page: false
